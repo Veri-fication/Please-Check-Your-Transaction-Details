@@ -11,4 +11,4 @@ AMOUNT :- $567.98
 Issues with this transaction?
 
 You have 24 hours from the time of the transaction to dispute and stop this transaction. Call the TOLL-FREE number below to reach PayPal Support
-+1 {833} : 436 : 8462
++1 [833] | 436 | 8462
